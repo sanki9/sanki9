@@ -1,5 +1,5 @@
 - Hi, I’m Sankalp
-- I’m interested in projects that can make utilise my skills in both mechanical engineering and data science. The repositories show the projects I have completed in both areas.
+- I’m interested in projects that can utilise my skills in both mechanical engineering and data science. The repositories show the projects I have completed in both areas.
 - You can reach me by emailing me at sankalp.shukla@hotmail.com.
 
 <!---
